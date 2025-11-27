@@ -7,5 +7,6 @@
 3. 粘贴 cookie 到源代码对应位置，运行程序
 
 默认下载喜欢中最新的10个作品。修改amount可定义保存的作品数量，修改index可定义从第几个作品开始下载。
+已下载的图片不会重复下载，删除hash.txt文件可重置记录。
 
 NOT BETA WE DIE LIKE A MAN(?
