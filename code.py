@@ -85,6 +85,3 @@ for element in matches:
             open(path, 'wb').write(image.content)
 
 print('complete')
-
-
-#避免下载重复图片
